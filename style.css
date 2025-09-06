@@ -1,0 +1,13 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-size: 2rem;
+    background-color: bisque;
+}
+
+#res{
+    font-weight: bolder;
+    font-size: 3rem;
+    padding: 10px 20px;
+    color: blue;
+}
