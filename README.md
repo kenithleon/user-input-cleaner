@@ -3,12 +3,12 @@
 A simple web app that takes a user's input (name), **trims extra spaces**, and formats it so the **first letter is uppercase** and the **rest are lowercase**.  
 
 ## 🚀 Live Demo  
-[Click here to view the demo](https://yourusername.github.io/user-input-cleaner/)  
+[Click here to view the demo]( https://kenithleon.github.io/user-input-cleaner/)  
 
  
 
 ## 📸 Preview  
-![App Screenshot](screenshot.png)  
+![App Screenshot](https://github.com/kenithleon/user-input-cleaner/blob/cda71600c3117218ca13d064e9221313d58c57b5/Screenshot%202025-09-06%20092323.png)  
 
 
 ## ✨ Features  
